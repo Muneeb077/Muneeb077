@@ -2,6 +2,15 @@
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
 </div>
 
+<div id="badges" align="center">
+  <a href="www.linkedin.com/in/muneeb-a5146013a">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/Says_Muneeb">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 <div id = "badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=Muneeb077&style=flat-square&color=blue" alt=""/>
 </div>
