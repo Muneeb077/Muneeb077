@@ -32,7 +32,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
 
-- :telescope: I am a third-year student at Memorial University of Newfoundland, currently pursuing my undergraduate degree in Computer Science.
+- :telescope: I am a fourth-year student at Memorial University of Newfoundland, currently pursuing my undergraduate degree in Computer Science.
 
 - :seedling: Learning more about the Cloud computing and AWS.
 
