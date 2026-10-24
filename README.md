@@ -11,13 +11,6 @@
   </a>
 </div>
 
-<div id = "head1" align="center">
-  <h1>
-    Hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+GitHub" alt="Typing SVG" />
 </p>
@@ -41,3 +34,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Muneeb077&theme=vue-dark&background=000000)](https://git.io/streak-stats)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Muneeb077?theme=light&font=KoHo&ext=heatmap)
