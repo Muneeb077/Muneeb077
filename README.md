@@ -35,4 +35,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Muneeb077&theme=vue-dark&background=000000)](https://git.io/streak-stats)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Muneeb077?theme=light&font=KoHo&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Muneeb077?theme=catppuccinaMocha&font=KoHo&ext=heatmap)
