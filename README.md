@@ -7,10 +7,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
-<div id = "badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muneeb077&style=flat-square&color=blue" alt=""/>
+<div id="badges" align="center">
+  <a href="https://muneeb077.github.io/my-portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio Badge"/>
+  </a>
 </div>
+
 
 <div id = "head1" align="center">
   <h1>
